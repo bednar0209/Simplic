@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26228.9
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Simplic.Web", "Simplic.Web\Simplic.Web.csproj", "{35F47213-14B5-45E1-96B1-8BF228CBCD94}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Simplic.Core", "Simplic.Core\Simplic.Core.csproj", "{FD07E7E0-24F1-4AFA-8CA8-6B89C9A962CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{35F47213-14B5-45E1-96B1-8BF228CBCD94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35F47213-14B5-45E1-96B1-8BF228CBCD94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35F47213-14B5-45E1-96B1-8BF228CBCD94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35F47213-14B5-45E1-96B1-8BF228CBCD94}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD07E7E0-24F1-4AFA-8CA8-6B89C9A962CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD07E7E0-24F1-4AFA-8CA8-6B89C9A962CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD07E7E0-24F1-4AFA-8CA8-6B89C9A962CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD07E7E0-24F1-4AFA-8CA8-6B89C9A962CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
